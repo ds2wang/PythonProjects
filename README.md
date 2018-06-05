@@ -1,5 +1,2 @@
 # PythonProjects
-Learning python in my spare time!
-It's about time I try to become familiar with this language since its popularity has been skyrocketting recently.
-
-Follow me as I try to solve some common/interesting computer science problems with python!
+In college I decided to make python my primary tech interview language since it's much simpler and less verbose than Java/C++, especially for whiteboarding. These are some of the first code I have written in python
